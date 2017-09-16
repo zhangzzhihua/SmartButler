@@ -121,7 +121,7 @@ public class ChatListAdapter extends BaseAdapter {
         private TextView tv_left_text;
     }
 
-    //右边的文本
+    //右边的文本//
     class ViewHolderRightText {
         private TextView tv_right_text;
     }
